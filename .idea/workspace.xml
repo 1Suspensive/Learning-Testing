@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f17ec3b7-97fd-44a7-8244-57408cc063f5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2h7RpMXOKmMxMzINEEgS7sw0kPf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.ExampleTest.executor": "Run",
+    "JUnit.ExampleTest.testCalcularMedia.executor": "Run",
+    "JUnit.ExampleTest.testCalcularMediaEmpty.executor": "Run",
+    "JUnit.ExampleTest.testCalcularMediaNull.executor": "Run",
+    "JUnit.ExampleTest.testCheckPositivo.executor": "Run",
+    "JUnit.ExampleTest.testCheckPositivoError.executor": "Run",
+    "JUnit.ExampleTest.testContarLetrasA.executor": "Run",
+    "JUnit.ExampleTest.testContieneElemento.executor": "Run",
+    "JUnit.ExampleTest.testConvertirAString.executor": "Run",
+    "JUnit.ExampleTest.testConvertirListaAString.executor": "Run",
+    "JUnit.ExampleTest.testEsPrimo.executor": "Run",
+    "JUnit.ExampleTest.testEsPrimoLessOrEqualsThanOne.executor": "Run",
+    "JUnit.ExampleTest.testFactorial.executor": "Run",
+    "JUnit.ExampleTest.testFactorialError.executor": "Run",
+    "JUnit.ExampleTest.testMensajeConRetraso.executor": "Run",
+    "JUnit.ExampleTest.testNoEsPrimo.executor": "Run",
+    "JUnit.ExampleTest.testNoEsPrimoHigherThanFour.executor": "Run",
+    "JUnit.ExampleTest.testRevertirCadena.executor": "Run",
+    "JUnit.ExampleTest.testSumar.executor": "Run",
+    "Maven.testing [clean].executor": "Run",
+    "Maven.testing [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Jeferson/Documents/Spring Learning/testing",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ExampleTest.testConvertirListaAString">
+    <configuration name="ExampleTest.testCalcularMedia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suspensive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.suspensive" />
+      <option name="MAIN_CLASS_NAME" value="com.suspensive.ExampleTest" />
+      <option name="METHOD_NAME" value="testCalcularMedia" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleTest.testCalcularMediaEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suspensive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.suspensive" />
+      <option name="MAIN_CLASS_NAME" value="com.suspensive.ExampleTest" />
+      <option name="METHOD_NAME" value="testCalcularMediaEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleTest.testCalcularMediaNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suspensive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.suspensive" />
+      <option name="MAIN_CLASS_NAME" value="com.suspensive.ExampleTest" />
+      <option name="METHOD_NAME" value="testCalcularMediaNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleTest.testConvertirAString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suspensive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.suspensive" />
+      <option name="MAIN_CLASS_NAME" value="com.suspensive.ExampleTest" />
+      <option name="METHOD_NAME" value="testConvertirAString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleTest.testConvertirListaAString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suspensive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.suspensive" />
+      <option name="MAIN_CLASS_NAME" value="com.suspensive.ExampleTest" />
+      <option name="METHOD_NAME" value="testConvertirListaAString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExampleTest.testConvertirListaAString" />
+        <item itemvalue="JUnit.ExampleTest.testCalcularMediaEmpty" />
+        <item itemvalue="JUnit.ExampleTest.testCalcularMediaNull" />
+        <item itemvalue="JUnit.ExampleTest.testCalcularMedia" />
+        <item itemvalue="JUnit.ExampleTest.testConvertirAString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f17ec3b7-97fd-44a7-8244-57408cc063f5" name="Changes" comment="" />
+      <created>1716943313156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716943313156</updated>
+      <workItem from="1716943314319" duration="39000" />
+      <workItem from="1716943367353" duration="2091000" />
+      <workItem from="1716945500447" duration="930000" />
+      <workItem from="1717027305871" duration="1466000" />
+      <workItem from="1717028811361" duration="3463000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/suspensive/ExampleTest.java</url>
+          <line>139</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
