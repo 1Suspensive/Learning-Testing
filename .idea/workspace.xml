@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f17ec3b7-97fd-44a7-8244-57408cc063f5" name="Changes" comment="" />
+    <list default="true" id="f17ec3b7-97fd-44a7-8244-57408cc063f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,46 +27,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "JUnit.ExampleTest.executor": "Run",
-    "JUnit.ExampleTest.testCalcularMedia.executor": "Run",
-    "JUnit.ExampleTest.testCalcularMediaEmpty.executor": "Run",
-    "JUnit.ExampleTest.testCalcularMediaNull.executor": "Run",
-    "JUnit.ExampleTest.testCheckPositivo.executor": "Run",
-    "JUnit.ExampleTest.testCheckPositivoError.executor": "Run",
-    "JUnit.ExampleTest.testContarLetrasA.executor": "Run",
-    "JUnit.ExampleTest.testContieneElemento.executor": "Run",
-    "JUnit.ExampleTest.testConvertirAString.executor": "Run",
-    "JUnit.ExampleTest.testConvertirListaAString.executor": "Run",
-    "JUnit.ExampleTest.testEsPrimo.executor": "Run",
-    "JUnit.ExampleTest.testEsPrimoLessOrEqualsThanOne.executor": "Run",
-    "JUnit.ExampleTest.testFactorial.executor": "Run",
-    "JUnit.ExampleTest.testFactorialError.executor": "Run",
-    "JUnit.ExampleTest.testMensajeConRetraso.executor": "Run",
-    "JUnit.ExampleTest.testNoEsPrimo.executor": "Run",
-    "JUnit.ExampleTest.testNoEsPrimoHigherThanFour.executor": "Run",
-    "JUnit.ExampleTest.testRevertirCadena.executor": "Run",
-    "JUnit.ExampleTest.testSumar.executor": "Run",
-    "Maven.testing [clean].executor": "Run",
-    "Maven.testing [test].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Jeferson/Documents/Spring Learning/testing",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testCalcularMedia.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testCalcularMediaEmpty.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testCalcularMediaNull.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testCheckPositivo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testCheckPositivoError.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testContarLetrasA.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testContieneElemento.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testConvertirAString.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testConvertirListaAString.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testEsPrimo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testEsPrimoLessOrEqualsThanOne.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testFactorial.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testFactorialError.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testMensajeConRetraso.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testNoEsPrimo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testNoEsPrimoHigherThanFour.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testRevertirCadena.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExampleTest.testSumar.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.testing [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.testing [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jeferson/Documents/Spring Learning/testing&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.ExampleTest.testConvertirListaAString">
     <configuration name="ExampleTest.testCalcularMedia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testing" />
@@ -177,6 +179,8 @@
       <workItem from="1716945500447" duration="930000" />
       <workItem from="1717027305871" duration="1466000" />
       <workItem from="1717028811361" duration="3463000" />
+      <workItem from="1717377954912" duration="635000" />
+      <workItem from="1717424691744" duration="56000" />
     </task>
     <servers />
   </component>
